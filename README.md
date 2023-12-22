@@ -8,7 +8,7 @@ Technologies used
 Django: The web framework for perfectionists with deadlines (Django builds better web apps with less code).
 DRF: A powerful and flexible toolkit for building Web APIs
 
-Installation
+# Installation
 
 Ensure you have Django and DRF installed. If not, you can install them using pip:
 pip install django djangorestframework
